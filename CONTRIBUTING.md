@@ -26,4 +26,4 @@ Do not open an issue on GitHub until you have collected positive feedback about 
 ## Do you have questions about the source code?
 Ask any question freely
 
-Thanks You!
+Thank You!
