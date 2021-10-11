@@ -1,10 +1,4 @@
-# content of test_sample.py
-
-def pow(base, exponent):
-    res = base
-    for i in range(exponent - 1):
-        res = res * base
-    return res
+from code import pow
 
 def test_pow():
     assert pow(9, 3) == 729
