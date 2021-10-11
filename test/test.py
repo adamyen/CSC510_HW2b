@@ -1,4 +1,4 @@
-from code import get_pow
+from hw_code import get_pow
 
 def test_pow():
     assert get_pow(9, 3) == 729
